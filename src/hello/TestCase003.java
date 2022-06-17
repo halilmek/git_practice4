@@ -8,5 +8,7 @@ public class TestCase003 {
         System.out.println("\"--------------     \" = " + "--------------     ");
         System.out.println("2nd commit");
         System.out.println("\"--------------     \" = " + "--------------     ");
+        System.out.println("3rd commit");
+        System.out.println("\"--------------     \" = " + "--------------     ");
     }
 }
